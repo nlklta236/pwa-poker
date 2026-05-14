@@ -1,0 +1,24 @@
+{
+  "name": "Одесский покер",
+  "short_name": "Покер",
+  "description": "PWA счетчик очков для расписного Одесского покера.",
+  "start_url": "/poker/",
+  "scope": "/poker/",
+  "display": "standalone",
+  "background_color": "#f8faf7",
+  "theme_color": "#155f4f",
+  "icons": [
+    {
+      "src": "/poker/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/poker/assets/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
